@@ -2,3 +2,4 @@
 Description du repo test
 
 - [x] Ok pour Paul
+- [x] Ok pour Maxime
